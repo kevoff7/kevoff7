@@ -1,14 +1,14 @@
 # Hello! I'm Kevoff 👋
 
-Frontend Developer  👨🏻‍💻
+## Frontend Developer  👨🏻‍💻
 
 
-## 🚀 About Me
+### 🚀 About Me
 - I am 21 years old and live in Bahia Blanca, Argentina.
 - I am a Mern and Pern full stack developer
 - I like to contribute to the creation of tools and applications that have a positive impact on society.
 
-## Technologies
+### Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?styles-flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?styles-flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?styles-flat&logo=HTML5)
