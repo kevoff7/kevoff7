@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1>Hello! I'm Kevin Suvia Cruz <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
+<h2>Fronted Developer</h2>
 
 <!--
 **kevoff7/kevoff7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
