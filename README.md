@@ -5,7 +5,6 @@
 
 ### 🚀 About Me
 - I am 22 years old and live in Bahia Blanca, Argentina.
-- I am a Mern and Pern full stack developer
 - I like to contribute to the creation of tools and applications that have a positive impact on society.
 
 ### Technologies
